@@ -11,12 +11,67 @@
             </children>
             <hierarchy name="root"/>
         </object>
+        <object class="WED_ObjPlacement" id="5633" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.032170287" longitude="-3.335141188"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
+        </object>
         <object class="WED_Select" id="2" parent_id="1">
             <sources/>
             <viewers/>
             <children/>
             <hierarchy name="selection"/>
-            <selection/>
+            <selection>
+                <sel id="5830"/>
+                <sel id="5880"/>
+                <sel id="5980"/>
+            </selection>
+        </object>
+        <object class="WED_ObjPlacement" id="5634" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.030149668" longitude="-3.330848190"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5570" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.016696021" longitude="-3.351638935"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_Ring" id="2146" parent_id="2151">
+            <sources/>
+            <viewers/>
+            <children>
+                <child id="2147"/>
+                <child id="2148"/>
+                <child id="2149"/>
+                <child id="2150"/>
+            </children>
+            <hierarchy hidden="0" locked="0" name="Image Boundary"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5730" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.006407394" longitude="-3.311243498"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5602" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.031072430" longitude="-3.361038271"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_KeyObjects" id="3" parent_id="1">
             <sources/>
@@ -26,6 +81,44 @@
             <keys>
                 <key id="0" name="airport"/>
             </keys>
+        </object>
+        <object class="WED_ObjPlacement" id="5635" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.027960664" longitude="-3.326555192"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_Group" id="2499" parent_id="4">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Farm Houses"/>
+        </object>
+        <object class="WED_TextureBezierNode" id="2147" parent_id="2146">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="Corner 1"/>
+            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="54.034504162" longitude="-3.353473328" split="0"/>
+            <texture_node s="0.0000" sc_hi="0.0000" sc_lo="0.0000" t="0.0000" tc_hi="0.0000" tc_lo="0.0000"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5731" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.008848975" longitude="-3.313962397"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5603" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.033093049" longitude="-3.365475713"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_Group" id="4" parent_id="1">
             <sources/>
@@ -43,24 +136,13 @@
             </children>
             <hierarchy hidden="0" locked="0" name="world"/>
         </object>
-        <object class="WED_Ring" id="2146" parent_id="2151">
-            <sources/>
-            <viewers/>
-            <children>
-                <child id="2147"/>
-                <child id="2148"/>
-                <child id="2149"/>
-                <child id="2150"/>
-            </children>
-            <hierarchy hidden="0" locked="0" name="Image Boundary"/>
-        </object>
-        <object class="WED_TextureBezierNode" id="2147" parent_id="2146">
+        <object class="WED_ObjPlacement" id="5636" parent_id="5822">
             <sources/>
             <viewers/>
             <children/>
-            <hierarchy hidden="0" locked="0" name="Corner 1"/>
-            <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="54.034504162" longitude="-3.353473328" split="0"/>
-            <texture_node s="0.0000" sc_hi="0.0000" sc_lo="0.0000" t="0.0000" tc_hi="0.0000" tc_lo="0.0000"/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.025519082" longitude="-3.322119094"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_TextureBezierNode" id="2148" parent_id="2146">
             <sources/>
@@ -70,6 +152,22 @@
             <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="54.039050149" longitude="-3.041724056" split="0"/>
             <texture_node s="1.0000" sc_hi="0.0000" sc_lo="0.0000" t="0.0000" tc_hi="0.0000" tc_lo="0.0000"/>
         </object>
+        <object class="WED_ObjPlacement" id="5732" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.011206364" longitude="-3.316681296"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5604" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.036544940" longitude="-3.363042277"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
+        </object>
         <object class="WED_TextureBezierNode" id="2149" parent_id="2146">
             <sources/>
             <viewers/>
@@ -77,6 +175,22 @@
             <hierarchy hidden="0" locked="0" name="Corner 3"/>
             <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="54.166492101" longitude="-3.041724056" split="0"/>
             <texture_node s="1.0000" sc_hi="0.0000" sc_lo="0.0000" t="1.0000" tc_hi="0.0000" tc_lo="0.0000"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5733" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.013395368" longitude="-3.319257095"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5605" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.034608513" longitude="-3.359034265"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_TextureBezierNode" id="2150" parent_id="2146">
             <sources/>
@@ -86,6 +200,22 @@
             <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="54.167268060" longitude="-3.352036292" split="0"/>
             <texture_node s="0.0000" sc_hi="0.0000" sc_lo="0.0000" t="1.0000" tc_hi="0.0000" tc_lo="0.0000"/>
         </object>
+        <object class="WED_ObjPlacement" id="5734" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.015836949" longitude="-3.321975994"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5606" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.032503702" longitude="-3.354453680"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
+        </object>
         <object class="WED_DrapedOrthophoto" id="2151" parent_id="5830">
             <sources/>
             <viewers/>
@@ -94,6 +224,22 @@
             </children>
             <hierarchy hidden="0" locked="0" name="main8.png"/>
             <draped_orthophoto heading="0.0" length="0.00" resource="ext_images\main8.png" tex_bottom="0.000" tex_left="0.000" tex_right="0.000" tex_top="0.000" width="0.00"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5735" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.016931451" longitude="-3.316681296"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5607" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.037892019" longitude="-3.356314543"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_Ring" id="2152" parent_id="2157">
             <sources/>
@@ -106,6 +252,22 @@
             </children>
             <hierarchy hidden="0" locked="0" name="Image Boundary"/>
         </object>
+        <object class="WED_ObjPlacement" id="5736" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.014574062" longitude="-3.313962397"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5608" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.036039785" longitude="-3.352163387"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
+        </object>
         <object class="WED_TextureBezierNode" id="2153" parent_id="2152">
             <sources/>
             <viewers/>
@@ -113,6 +275,22 @@
             <hierarchy hidden="0" locked="0" name="Corner 1"/>
             <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="54.086290516" longitude="-3.278598191" split="0"/>
             <texture_node s="0.0000" sc_hi="0.0000" sc_lo="0.0000" t="0.0000" tc_hi="0.0000" tc_lo="0.0000"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5737" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.012469251" longitude="-3.311100399"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5609" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.039154906" longitude="-3.349300521"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_TextureBezierNode" id="2154" parent_id="2152">
             <sources/>
@@ -122,6 +300,22 @@
             <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="54.087387553" longitude="-3.169471658" split="0"/>
             <texture_node s="1.0000" sc_hi="0.0000" sc_lo="0.0000" t="0.0000" tc_hi="0.0000" tc_lo="0.0000"/>
         </object>
+        <object class="WED_ObjPlacement" id="5738" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.009859285" longitude="-3.308667700"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5610" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.041343910" longitude="-3.353594820"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
+        </object>
         <object class="WED_TextureBezierNode" id="2155" parent_id="2152">
             <sources/>
             <viewers/>
@@ -130,6 +324,22 @@
             <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="54.134201687" longitude="-3.168664025" split="0"/>
             <texture_node s="1.0000" sc_hi="0.0000" sc_lo="0.0000" t="1.0000" tc_hi="0.0000" tc_lo="0.0000"/>
         </object>
+        <object class="WED_ObjPlacement" id="5739" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.007501896" longitude="-3.306091901"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5611" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.043532914" longitude="-3.357745976"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
+        </object>
         <object class="WED_TextureBezierNode" id="2156" parent_id="2152">
             <sources/>
             <viewers/>
@@ -137,6 +347,22 @@
             <hierarchy hidden="0" locked="0" name="Corner 4"/>
             <point ctrl_latitude_hi="0.000000000" ctrl_latitude_lo="0.000000000" ctrl_longitude_hi="0.000000000" ctrl_longitude_lo="0.000000000" latitude="54.134615345" longitude="-3.278323947" split="0"/>
             <texture_node s="0.0000" sc_hi="0.0000" sc_lo="0.0000" t="1.0000" tc_hi="0.0000" tc_lo="0.0000"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5740" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.008764783" longitude="-3.300367903"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5612" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.040165216" longitude="-3.360465698"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_DrapedOrthophoto" id="2157" parent_id="5830">
             <sources/>
@@ -147,18 +373,20 @@
             <hierarchy hidden="0" locked="0" name="main9.png"/>
             <draped_orthophoto heading="0.0" length="0.00" resource="ext_images\main9.png" tex_bottom="0.000" tex_left="0.000" tex_right="0.000" tex_top="0.000" width="0.00"/>
         </object>
-        <object class="WED_Group" id="2499" parent_id="4">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="Farm Houses"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5570" parent_id="5822">
+        <object class="WED_ObjPlacement" id="5741" parent_id="5822">
             <sources/>
             <viewers/>
             <children/>
             <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.016696021" longitude="-3.351638935"/>
+            <point heading="0.00" latitude="54.011037979" longitude="-3.303373002"/>
+            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
+        </object>
+        <object class="WED_ObjPlacement" id="5613" parent_id="5822">
+            <sources/>
+            <viewers/>
+            <children/>
+            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
+            <point heading="0.00" latitude="54.020913206" longitude="-3.360418303"/>
             <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5589" parent_id="5822">
@@ -263,102 +491,6 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
             <point heading="0.00" latitude="54.028967618" longitude="-3.356887116"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5602" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.031072430" longitude="-3.361038271"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5603" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.033093049" longitude="-3.365475713"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5604" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.036544940" longitude="-3.363042277"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5605" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.034608513" longitude="-3.359034265"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5606" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.032503702" longitude="-3.354453680"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5607" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.037892019" longitude="-3.356314543"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5608" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.036039785" longitude="-3.352163387"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5609" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.039154906" longitude="-3.349300521"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5610" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.041343910" longitude="-3.353594820"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5611" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.043532914" longitude="-3.357745976"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5612" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.040165216" longitude="-3.360465698"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5613" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.020913206" longitude="-3.360418303"/>
             <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5614" parent_id="5822">
@@ -511,38 +643,6 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
             <point heading="0.00" latitude="54.034443483" longitude="-3.339147987"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5633" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.032170287" longitude="-3.335141188"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5634" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.030149668" longitude="-3.330848190"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5635" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.027960664" longitude="-3.326555192"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5636" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.025519082" longitude="-3.322119094"/>
             <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5637" parent_id="5822">
@@ -1287,102 +1387,6 @@
             <children/>
             <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
             <point heading="0.00" latitude="54.005144507" longitude="-3.316681296"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5730" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.006407394" longitude="-3.311243498"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5731" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.008848975" longitude="-3.313962397"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5732" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.011206364" longitude="-3.316681296"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5733" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.013395368" longitude="-3.319257095"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5734" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.015836949" longitude="-3.321975994"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5735" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.016931451" longitude="-3.316681296"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5736" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.014574062" longitude="-3.313962397"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5737" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.012469251" longitude="-3.311100399"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5738" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.009859285" longitude="-3.308667700"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5739" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.007501896" longitude="-3.306091901"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5740" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.008764783" longitude="-3.300367903"/>
-            <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
-        </object>
-        <object class="WED_ObjPlacement" id="5741" parent_id="5822">
-            <sources/>
-            <viewers/>
-            <children/>
-            <hierarchy hidden="0" locked="0" name="WindTbn2m5_100.obj"/>
-            <point heading="0.00" latitude="54.011037979" longitude="-3.303373002"/>
             <obj_placement custom_msl="0" msl="0.000" resource="lib/g10/US/industrial/power/WindTbn2m5_100.obj" show_level="4 Mega tons"/>
         </object>
         <object class="WED_ObjPlacement" id="5742" parent_id="5822">
@@ -3261,10 +3265,10 @@
             <sources/>
             <viewers/>
             <children>
-                <child id="5979"/>
-                <child id="6006"/>
-                <child id="6018"/>
                 <child id="6034"/>
+                <child id="6018"/>
+                <child id="6006"/>
+                <child id="5979"/>
             </children>
             <hierarchy hidden="0" locked="0" name="hiRes Barrow new"/>
         </object>
@@ -3801,15 +3805,15 @@
         </pref>
         <pref name="doc/export_target" value="4"/>
         <pref name="doc/use_feet" value="1"/>
-        <pref name="map/east" value="-3.139535"/>
-        <pref name="map/north" value="54.128600"/>
+        <pref name="map/east" value="-3.210993"/>
+        <pref name="map/north" value="54.104684"/>
         <pref name="map/obj_density" value="5"/>
         <pref name="map/pavement_alpha" value="2"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="54.075493"/>
+        <pref name="map/south" value="54.090065"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="-3.245185"/>
+        <pref name="map/west" value="-3.240085"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
@@ -3884,8 +3888,8 @@
         <pref name="window/height" value="991"/>
         <pref name="window/main_split" value="352"/>
         <pref name="window/main_split2" value="1560"/>
-        <pref name="window/prev_split" value="479"/>
-        <pref name="window/prop_split" value="243"/>
+        <pref name="window/prev_split" value="489"/>
+        <pref name="window/prop_split" value="238"/>
         <pref name="window/width" value="1904"/>
         <pref name="window/x_loc" value="1920"/>
         <pref name="window/y_loc" value="0"/>
