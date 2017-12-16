@@ -25,7 +25,7 @@
             <children/>
             <hierarchy name="selection"/>
             <selection>
-                <sel id="6018"/>
+                <sel id="4"/>
             </selection>
         </object>
         <object class="WED_ObjPlacement" id="5634" parent_id="5822">
@@ -3802,15 +3802,15 @@
         </pref>
         <pref name="doc/export_target" value="4"/>
         <pref name="doc/use_feet" value="1"/>
-        <pref name="map/east" value="-3.210993"/>
-        <pref name="map/north" value="54.104684"/>
+        <pref name="map/east" value="-3.200742"/>
+        <pref name="map/north" value="54.110443"/>
         <pref name="map/obj_density" value="5"/>
         <pref name="map/pavement_alpha" value="2"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="54.090065"/>
+        <pref name="map/south" value="54.084306"/>
         <pref name="map/vertices_vis" value="1"/>
-        <pref name="map/west" value="-3.240085"/>
+        <pref name="map/west" value="-3.250336"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
@@ -3882,13 +3882,13 @@
         <pref name="map_Truck Parking_Truck Type" value="154"/>
         <pref name="map_Vertex_Snap To Vertices" value="0"/>
         <pref name="map_Windsock_Lit" value="0"/>
-        <pref name="window/height" value="991"/>
+        <pref name="window/height" value="1037"/>
         <pref name="window/main_split" value="352"/>
         <pref name="window/main_split2" value="1560"/>
-        <pref name="window/prev_split" value="489"/>
-        <pref name="window/prop_split" value="238"/>
-        <pref name="window/width" value="1904"/>
-        <pref name="window/x_loc" value="1920"/>
-        <pref name="window/y_loc" value="0"/>
+        <pref name="window/prev_split" value="499"/>
+        <pref name="window/prop_split" value="248"/>
+        <pref name="window/width" value="1920"/>
+        <pref name="window/x_loc" value="-8"/>
+        <pref name="window/y_loc" value="-8"/>
     </prefs>
 </doc>

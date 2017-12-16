@@ -25,9 +25,7 @@
             <children/>
             <hierarchy name="selection"/>
             <selection>
-                <sel id="5830"/>
-                <sel id="5880"/>
-                <sel id="5980"/>
+                <sel id="6018"/>
             </selection>
         </object>
         <object class="WED_ObjPlacement" id="5634" parent_id="5822">
@@ -3265,10 +3263,10 @@
             <sources/>
             <viewers/>
             <children>
-                <child id="6034"/>
-                <child id="6018"/>
-                <child id="6006"/>
                 <child id="5979"/>
+                <child id="6006"/>
+                <child id="6018"/>
+                <child id="6034"/>
             </children>
             <hierarchy hidden="0" locked="0" name="hiRes Barrow new"/>
         </object>
@@ -3801,7 +3799,6 @@
             <item value="5830"/>
             <item value="5831"/>
             <item value="5880"/>
-            <item value="5980"/>
         </pref>
         <pref name="doc/export_target" value="4"/>
         <pref name="doc/use_feet" value="1"/>
